@@ -1,0 +1,10 @@
+pandas
+requests
+beautifulsoup4
+nltk
+textblob
+vaderSentiment
+wordcloud
+matplotlib
+azure-storage-blob
+python-dotenv
